@@ -1,0 +1,45 @@
+
+.bags-con{
+    width: 100vw;
+
+    display: flex;
+    color: white;
+    font-family: sans-serif;
+   flex-direction: row;
+   justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  margin-top: 40px;
+  flex-wrap: wrap;
+  margin-bottom: 35px;
+}
+
+
+
+
+
+
+
+.bag-title{
+    font-size: 10px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: #E5DFD9;
+    font-size: 13px;
+    font-family: 400;
+    letter-spacing: 1px;
+}
+
+.bag-img{
+    width: 70px;
+    height: 90px;
+}
+.bag-img-con{
+    width: 75px;
+    height: 120px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
